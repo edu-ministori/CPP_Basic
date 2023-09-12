@@ -18,5 +18,27 @@
     <ClCompile Include="Cpp_Basic.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Ch01_Variable.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Downloads\CPPBasic\Ch02_Operation.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Downloads\CPPBasic\Ch03_Statement.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Cpp_Basic.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="io.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Guide.md">
+      <Filter>Source Files</Filter>
+    </None>
   </ItemGroup>
 </Project>

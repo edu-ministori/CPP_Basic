@@ -127,7 +127,17 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="..\..\..\..\Downloads\CPPBasic\Ch02_Operation.cpp" />
+    <ClCompile Include="..\..\..\..\Downloads\CPPBasic\Ch03_Statement.cpp" />
+    <ClCompile Include="Ch01_Variable.cpp" />
     <ClCompile Include="Cpp_Basic.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Cpp_Basic.h" />
+    <ClInclude Include="io.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Guide.md" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
